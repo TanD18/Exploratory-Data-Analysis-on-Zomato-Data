@@ -6,8 +6,8 @@
 The project uses data from customer engagement of Zomato. We dive into the data to uncover patterns, understand relationships between its features and check out  various assumptions.
 
 
-https://user-images.githubusercontent.com/35737849/191583652-168ad1f4-d86f-4d76-92be-d93be6d5f797.mp4
 
+![EDA](https://user-images.githubusercontent.com/35737849/191584807-3e823b85-d2cb-4cc9-8ab9-241887afd16e.gif)
 
 
 ## Blog on the Project
