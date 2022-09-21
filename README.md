@@ -23,7 +23,7 @@ Food in India is no longer restricted to a home-made thing. With food delivery s
 - Analyse input features through some statistical methods
 - Study relationship between features
 - Test out underlying assumption from data
-- Define EDA problem statements and get insights 
+- Define EDA problem statements and get insights from results
 
 ## About Data
 
