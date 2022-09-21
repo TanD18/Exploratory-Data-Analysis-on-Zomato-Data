@@ -4,7 +4,12 @@
 ## Overview
 
 The project uses data from customer engagement of Zomato. We dive into the data to uncover patterns, understand relationships between its features and check out  various assumptions.
-file:///E:/STD/It's%20Deep!/Projects/Zomato%20EDA/EDA.mp4
+
+
+https://user-images.githubusercontent.com/35737849/191583652-168ad1f4-d86f-4d76-92be-d93be6d5f797.mp4
+
+
+
 ## Blog on the Project
 
 [Exploratory Data Analysis on Zomato Dataset](https://linktodocumentation)
@@ -23,7 +28,9 @@ Food in India is no longer restricted to a home-made thing. With food delivery s
 ## About Data
 
 The data has 51717 instances of 17 features/columns. Out of these, only one is numeric type.
-file:///E:/STD/It's%20Deep!/Medium/EDA/info.PNG
+
+![info](https://user-images.githubusercontent.com/35737849/191583843-25b0daaa-3771-4c8c-be93-dcf29927982b.PNG)
+
 
 ## Tech Stack
 
