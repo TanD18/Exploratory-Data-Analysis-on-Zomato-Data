@@ -10,9 +10,7 @@ The project uses data from customer engagement of Zomato. We dive into the data 
 ![EDA](https://user-images.githubusercontent.com/35737849/191584807-3e823b85-d2cb-4cc9-8ab9-241887afd16e.gif)
 
 
-
-
-
+<br /><br />
 ## Blog on the Project
 
 [Exploratory Data Analysis on Zomato Dataset](https://linktodocumentation)
