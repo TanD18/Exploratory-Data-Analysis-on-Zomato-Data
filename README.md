@@ -24,7 +24,8 @@ Food in India is no longer restricted to a home-made thing. With food delivery s
 - Analyse input features through some statistical methods
 - Study relationship between features
 - Test out underlying assumption from data
-- Define EDA problem statements and get insights from results
+- Define [EDA problem statements](https://github.com/TanD18/Exploratory-Data-Analysis-on-Zomato-Data/blob/main/EDA%20Problem%20Statements.pdf) and get insights from results
+
 
 ## About Data
 
