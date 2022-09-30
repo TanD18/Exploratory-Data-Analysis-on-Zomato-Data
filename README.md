@@ -26,9 +26,8 @@ Food in India is no longer restricted to a home-made thing. With food delivery s
 - Test out underlying assumption from data
 - Define [EDA problem statements](https://github.com/TanD18/Exploratory-Data-Analysis-on-Zomato-Data/blob/main/EDA%20Problem%20Statements.pdf) and get insights from results
 <br/>
-## Full Notebook
-
-[Colab Notebook](https://colab.research.google.com/github/TanD18/Exploratory-Data-Analysis-on-Zomato-Data/blob/main/Exploratory_Data_Analysis_on_Zomato_Data.ipynb)
+<br/>
+[Full Colab Notebook](https://colab.research.google.com/github/TanD18/Exploratory-Data-Analysis-on-Zomato-Data/blob/main/Exploratory_Data_Analysis_on_Zomato_Data.ipynb)
 
 
 ## About Data
